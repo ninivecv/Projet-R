@@ -1,8 +1,8 @@
 
-# Nom du workflow affiché dans GitHub
+## Nom du workflow affiché dans GitHub
 name: Mise à jour des temps d'attente aux urgences au Québec
 
-# Déclencheurs du workflow
+## Déclencheurs du workflow
 on:
 
 # Exécution automatique selon un horaire
