@@ -8,7 +8,7 @@ on:
 ## Exécution automatique selon un horaire
   schedule:
   
- ## Exécute le workflow tous les jours à 8 h 30 UTC
+ ## Exécute le workflow tous les jours à 12 h 30 UTC
     - cron: '30 12 * * *' 
     
 ## Permet un lancement manuel depuis GitHub
