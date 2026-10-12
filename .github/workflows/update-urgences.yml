@@ -2,7 +2,7 @@ name: Mise à jour des temps d attente aux urgences au Québec
 
 on:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 20 * * *'
 
   workflow_dispatch:
 
