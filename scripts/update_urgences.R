@@ -100,9 +100,9 @@ extraire_region <- function(url, region, rss){
       html_text2() %>%
       str_subset("^[0-9]{2}-[0-9]{2}$") # Extrait les dates au format jj-mm à partir du contenu HTML de la page
     
-    dates <- dates[1:30]
+    dates <- dates[1:30] # Les dates sont les mêmes pour le taux d'occupation des civières
     
-    annee_courante <- year(Sys.Date()) # # Récupère l'année actuelle à partir de la date du jour
+    annee_courante <- year(Sys.Date()) # Récupère l'année actuelle à partir de la date du jour
     
     tibble(  # Construit une date complète (jour-mois-année) à partir des dates extraites et de l'année courante 
       date = dmy(
@@ -198,7 +198,7 @@ final <- final %>%
   distinct(
     date,
     rss,
-    .keep_all = TRUE # Supprime les doublons date + RSS tout en conservant les autres colonnes.
+    .keep_all = TRUE  # Supprime les doublons date + RSS tout en conservant les autres colonnes.
   )
 
 
