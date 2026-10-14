@@ -80,8 +80,8 @@ jobs:
   ## Vérifie si des modifications sont présentes
           git diff --staged --quiet || \
           
-  # Crée un commit si le fichier a changé
+  ## Crée un commit si le fichier a changé
           git commit -m "Mise à jour quotidienne des temps d'attente aux urgences au Québec"
 
-  # Envoie les modifications vers GitHub
+  ## Envoie les modifications vers GitHub
           git push
