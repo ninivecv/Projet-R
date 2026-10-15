@@ -46,3 +46,11 @@ Saguenay-Lac-Saint-Jean : https://www.indexsante.ca/urgences/saguenay-lac-saint-
 Pour voir la discussion complète : https://copilot.cloud.microsoft/chat/conversation/1c798a22-5b09-471b-b183-5b8657989a58?fromCode=cmcv2&redirectId=892F94F66C914905A0A188F033B0FE75
 
 N.B. Il est très possible de retrouver des fautes de français de la part de l'utilisateur dans les discussions avec l'IA. 
+
+
+
+
+## Prochaines étapes
+
+- Configurer l'envoie d'un e-mail si jamais il y a un problème avec le GITACTION
+- Régler les heures du GITACTION
