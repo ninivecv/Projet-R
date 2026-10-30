@@ -48,6 +48,7 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-26,Bas-Saint-Laurent,RSS01,3h16,3.2666666666666666
 2026-10-27,Bas-Saint-Laurent,RSS01,3h28,3.466666666666667
 2026-10-28,Bas-Saint-Laurent,RSS01,3h36,3.6
+2026-10-29,Bas-Saint-Laurent,RSS01,3h40,3.6666666666666665
 2026-09-10,Saguenay-Lac-Saint-Jean,RSS02,4h35,4.583333333333333
 2026-09-11,Saguenay-Lac-Saint-Jean,RSS02,4h07,4.116666666666666
 2026-09-12,Saguenay-Lac-Saint-Jean,RSS02,4h50,4.833333333333333
@@ -137,6 +138,7 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-26,Capitale-Nationale,RSS03,3h47,3.783333333333333
 2026-10-27,Capitale-Nationale,RSS03,3h52,3.8666666666666663
 2026-10-28,Capitale-Nationale,RSS03,3h46,3.7666666666666666
+2026-10-29,Capitale-Nationale,RSS03,3h43,3.716666666666667
 2026-09-10,Mauricie et Centre-du-Québec,RSS04,NA,NA
 2026-09-11,Mauricie et Centre-du-Québec,RSS04,NA,NA
 2026-09-12,Mauricie et Centre-du-Québec,RSS04,NA,NA
@@ -226,6 +228,7 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-26,Estrie,RSS05,4h36,4.6
 2026-10-27,Estrie,RSS05,4h29,4.483333333333333
 2026-10-28,Estrie,RSS05,4h58,4.966666666666667
+2026-10-29,Estrie,RSS05,5h11,5.183333333333334
 2026-09-10,Montréal,RSS06,6h08,6.133333333333334
 2026-09-11,Montréal,RSS06,5h59,5.983333333333333
 2026-09-12,Montréal,RSS06,5h41,5.683333333333334
@@ -355,6 +358,7 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-26,Abitibi-Témiscamingue,RSS08,6h00,6
 2026-10-27,Abitibi-Témiscamingue,RSS08,4h38,4.633333333333333
 2026-10-28,Abitibi-Témiscamingue,RSS08,4h51,4.85
+2026-10-29,Abitibi-Témiscamingue,RSS08,5h28,5.466666666666667
 2026-09-10,Côte-Nord,RSS09,4h25,4.416666666666667
 2026-09-11,Côte-Nord,RSS09,3h39,3.65
 2026-09-12,Côte-Nord,RSS09,4h41,4.683333333333334
@@ -404,6 +408,7 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-26,Côte-Nord,RSS09,4h36,4.6
 2026-10-27,Côte-Nord,RSS09,5h38,5.633333333333333
 2026-10-28,Côte-Nord,RSS09,5h37,5.616666666666667
+2026-10-29,Côte-Nord,RSS09,5h04,5.066666666666666
 2026-09-10,Nord-du-Québec,RSS10,2h19,2.3166666666666664
 2026-09-11,Nord-du-Québec,RSS10,2h19,2.3166666666666664
 2026-09-12,Nord-du-Québec,RSS10,2h20,2.3333333333333335
@@ -492,7 +497,8 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-25,Gaspésie-Îles-de-la-Madeleine,RSS11,3h13,3.216666666666667
 2026-10-26,Gaspésie-Îles-de-la-Madeleine,RSS11,3h50,3.8333333333333335
 2026-10-27,Gaspésie-Îles-de-la-Madeleine,RSS11,3h40,3.6666666666666665
-2026-10-28,Gaspésie-Îles-de-la-Madeleine,RSS11,3h53,3.8833333333333333
+2026-10-28,Gaspésie-Îles-de-la-Madeleine,RSS11,3h53,3.8833333333333337
+2026-10-29,Gaspésie-Îles-de-la-Madeleine,RSS11,3h28,3.466666666666667
 2026-09-10,Chaudière-Appalaches,RSS12,3h42,3.7
 2026-09-11,Chaudière-Appalaches,RSS12,4h07,4.116666666666666
 2026-09-12,Chaudière-Appalaches,RSS12,4h23,4.383333333333334
@@ -542,6 +548,7 @@ date,region,rss,temps_attente,temps_attente_heures
 2026-10-26,Chaudière-Appalaches,RSS12,3h52,3.8666666666666663
 2026-10-27,Chaudière-Appalaches,RSS12,3h56,3.9333333333333336
 2026-10-28,Chaudière-Appalaches,RSS12,5h22,5.366666666666666
+2026-10-29,Chaudière-Appalaches,RSS12,4h42,4.7
 2026-09-10,Laval,RSS13,6h12,6.2
 2026-09-11,Laval,RSS13,5h54,5.9
 2026-09-12,Laval,RSS13,5h31,5.516666666666667
